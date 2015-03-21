@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "hapi": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon -e coffee dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franciscocgoncalves/boilerplate-app.git"
+  },
+  "author": "Makay, @franciscocsg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscocgoncalves/boilerplate-app/issues"
+  },
+  "homepage": "https://github.com/franciscocgoncalves/boilerplate-app"
+}
